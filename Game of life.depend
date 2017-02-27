@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474543162 source:c:\users\student.lab221a-6\desktop\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1474546764 source:l:\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
